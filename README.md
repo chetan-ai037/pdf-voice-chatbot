@@ -63,8 +63,8 @@ The system ensures that answers are derived only from the uploaded document and 
    pip install -r requirements.txt
 3. Create a .env file and add your API key
    ```bash
-  GROQ_API_KEY=your_api_key_here
+GROQ_API_KEY=your_api_key_here
 4. Run the application
    ```bash
-   streamlit run pdf_voice_chatbot/app.py
+    streamlit run pdf_voice_chatbot/app.py
 
