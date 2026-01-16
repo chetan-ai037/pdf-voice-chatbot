@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+pypdf
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+groq
+openai-whisper
+torch
+numpy
+pydub
+ffmpeg-python
+pyttsx3
